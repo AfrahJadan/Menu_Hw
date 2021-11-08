@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item android:id="@+id/Contact_us"
+    android:icon="@drawable/ic_baseline_contact"
+    android:title="@string/contact_us"
+    app:showAsAction="never"
+    />
+    <item android:id="@+id/Set"
+        android:icon="@drawable/ic_baseline_settings"
+        android:title="@string/setting"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/Log"
+        android:icon="@drawable/ic_baseline_login"
+        android:title="@string/logout"
+        app:showAsAction="never"
+       />
+</menu>
