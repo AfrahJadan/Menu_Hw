@@ -14,7 +14,12 @@
         />
     <item android:id="@+id/Log"
         android:icon="@drawable/ic_baseline_login"
-        android:title="@string/logout"
+        android:title="@string/login"
         app:showAsAction="never"
        />
+    <item android:id="@+id/sign_out"
+        android:icon="@drawable/ic_menu"
+        android:title="@string/signout"
+       app:showAsAction="never"
+        />
 </menu>

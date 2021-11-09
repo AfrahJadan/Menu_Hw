@@ -3,4 +3,6 @@
     <string name="contact_us">Contact us</string>
     <string name="setting">Setting</string>
     <string name="logout">Logout</string>
+    <string name="signout">SignOut</string>
+    <string name="login">login</string>
 </resources>
